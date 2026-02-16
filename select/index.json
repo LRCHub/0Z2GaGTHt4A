@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヘビースモーク",
+  "base_artist": "にしな",
+  "createdAt": "2026-02-16T13:42:49.035531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘビースモーク",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/01_ヘビースモーク_にしな.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘビースモーク - heavy smoke",
+      "artist": "nishina",
+      "has_synced": true,
+      "path": "select/02_ヘビースモーク_-_heavy_smoke_nishina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘビースモーク",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_ヘビースモーク_にしな.txt"
+    }
+  ]
+}
